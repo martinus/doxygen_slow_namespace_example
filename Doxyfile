@@ -1,0 +1,12 @@
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+HTML_OUTPUT            = html
+PROJECT_NAME           = "My Project"
+RECURSIVE              = yes
+INPUT                  = src
+INCLUDE_PATH           = src
+
+# don't show any output
+QUIET                  = YES 
+WARN_IF_UNDOCUMENTED   = NO
+WARNINGS               = NO
